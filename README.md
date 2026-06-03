@@ -2,6 +2,12 @@
 
 A practical machine learning project for precision agriculture, covering crop recommendation, yield prediction, and data cleaning on real-world agricultural datasets.
 
+## Quick Start
+git clone ****/crop_analysis.git
+cd crop_analysis
+pip install -r requirements.txt
+streamlit run app.py
+
 ## Project Structure
 
 ```
